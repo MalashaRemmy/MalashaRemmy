@@ -1,8 +1,6 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+Learning+new+things;Keep+Moving...;Deliver+Value+wherever+you+are;You+have+one+Life;only+one;Just+a+chance+to+make+it+count)](https://git.io/typing-svg)
 
 Hi there 👋
-
 - 👋 Hey, I’m Remmy, aspiring SWE
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Full-Stack Developement

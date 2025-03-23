@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;Keep++Moving...;Always+Learning+New+Things+;Delivering+Value+wherever+you+are;You+have+one+Life+;Only+One;And+you+are+the+one+Living+it!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;Keep++Moving...;Always+Learning+New+Things+;Delivering+Value+wherever+you+are!+)](https://git.io/typing-svg)
 
 Hi there 👋
 - 👋 Hey, I’m Remmy, aspiring SWE

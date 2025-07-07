@@ -4,7 +4,7 @@ Hi there 👋
 - 👋 Hey, I’m Remmy, aspiring SWE
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Full-Stack Developement
-- 💞️ I’m looking to collaborate on Web and Mobile App Developement
+- 💞️ I’m looking to collaborate on full stack web and mobile development
 - 📫 How to reach me: https://www.linkedin.com/in/remmymalasha/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Thinking and Doing are two different things✨ 

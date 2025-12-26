@@ -7,7 +7,7 @@ Hi there 👋
 - 💞️ I’m looking to collaborate on full stack web and mobile development
 - 📫 How to reach me: https://www.linkedin.com/in/remmymalasha/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Thinking and Doing are two different things✨ 
+- ⚡ Fun fact: I talk to rubber ducks… and somehow my bugs listen. 
 
 <!---
 MalashaRemmy/MalashaRemmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

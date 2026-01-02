@@ -46,7 +46,7 @@ I value **clarity, integrity, and growth-oriented teamwork**.
 
 ## 🌍 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/remmymalasha/
-- For professional or collaboration inquiries, you can reach me via email at [mremmy84@gmail.com](mailto:mremmy84@gmail.com).
+- Email: [mremmy84@gmail.com](mailto:mremmy84@gmail.com)
 
 ---
 

@@ -1,6 +1,6 @@
-# Remmy Malasha
+# Junior Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=560&lines=Future-Focused+Software+Engineer;Building+Systems+and+Thinking+Deliberately;Emerging+Software+Engineer;Solving+Problems+with+Evidence.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=560&lines=Future-Focused+Life+Long+Learner;Building+Systems+and+Thinking+intentionally;Emerging+Software+Engineer;Solving+Problems+with+Evidence.)](https://git.io/typing-svg)
 
 I am an emerging software engineer building web systems end-to-end to understand how software behaves in real conditions.  
 I focus on solving tangible problems, making design decisions under constraints, and iterating with intention.

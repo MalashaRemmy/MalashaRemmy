@@ -1,95 +1,98 @@
-# Junior Software Engineer
+# Software Engineering Student (Early Career)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=560&lines=Future-Focused+Life+Long+Learner;Building+Systems+and+Thinking+intentionally;Emerging+Software+Engineer;Solving+Problems+with+Evidence.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=560&lines=Learning+by+Building+and+Explaining;System-Oriented+Problem+Solving;Depth+Before+Scale;Evidence+Over+Claims.)](https://git.io/typing-svg)
 
-I am early in my development. I deliberately work on small systems I can fully understand, document, and explain. My focus is depth before scale.
+I am early in my development and deliberate about staying that way.  
+I focus on building **small, complete systems** I can fully understand, document, and explain.
 
-I am building web systems end-to-end to understand how software behaves in real conditions.  
-I focus on solving tangible problems, making design decisions under constraints, and iterating with intention.
-
----
-
-## 🛠️ Applied Skills
-
-- **Frontend:** HTML, CSS, JavaScript, DOM manipulation  
-- **Backend (learning):** Node.js, REST APIs  
-- **Version Control:** Git, GitHub workflow with commit discipline  
-- **System Design & Problem Solving:** decomposing problems, balancing constraints, and reflecting on trade-offs
-
-Demonstrating Skills through projects I structure as systems, beyond tutorials.
+My goal is not speed or surface-level complexity, but **engineering depth**:  
+understanding how software behaves under real constraints, how decisions affect maintainability, and how systems evolve through iteration.
 
 ---
 
-## 🔹 Projects
+## 🧠 Engineering Mindset
+
+- I treat projects as systems, not demos  
+- I separate concerns before writing code  
+- I make trade-offs explicit and document decisions  
+- I value clarity, correctness, and predictability over cleverness  
+- I use Git to show *how* my thinking evolves, not just final results  
+
+---
+
+## 🛠️ Applied Skills (Current)
+
+- **Frontend:** HTML, CSS, JavaScript (DOM manipulation, event-driven logic)
+- **Backend (learning):** Node.js, REST APIs
+- **Version Control:** Git, GitHub (disciplined commits, incremental progress)
+- **Problem Solving:** decomposition, constraint analysis, trade-off evaluation
+
+Skills are demonstrated through **projects structured as systems**, not tutorials.
+
+---
+
+## 🔹 Selected Projects
 
 ### 1. Calculator System
-- **Problem:** Build a calculator handling all basic arithmetic reliably  
-- **Constraints:** Correctly handle edge cases, maintain separation of logic for calculations and display  
-- **Decisions:** Modularized JS functions; event-driven interaction; error handling for invalid inputs  
-- **Outcome:** Learned how to manage state cleanly and enforce predictable behavior in interactive applications  
-- [View Live Demo](https://malasharemmy.github.io/Calculator/)
-- [Repository Link](#)
+- **Problem:** Build a reliable calculator handling all basic arithmetic
+- **Constraints:** Correct edge-case handling, clear separation of logic and display
+- **Design Decisions:** Modular JavaScript functions, event-driven input handling, explicit error states
+- **What I Learned:** State management, predictable behavior in interactive systems
+- 🔗 [Live Demo](https://malasharemmy.github.io/Calculator/)
+- 🔗 [Repository](#)
 
-### 2. Browser-Based Game
-- **Problem:** Implement a Rock-Paper-Scissors game with randomized computer opponent  
-- **Constraints:** Responsive UI, accurate game logic, user input validation  
-- **Decisions:** Event delegation, DOM updates optimized for clarity, modular code for maintainability  
-- **Outcome:** Practiced handling asynchronous interactions and iterative feedback loops  
-- [View Live Demo](https://malasharemmy.github.io/Rock-Paper-Scissors/)
-- [Repository Link](#)
+---
+
+### 2. Browser-Based Game (Rock–Paper–Scissors)
+- **Problem:** Implement a fair game with a randomized computer opponent
+- **Constraints:** Responsive UI, correct game logic, validated user input
+- **Design Decisions:** Event delegation, modular logic, clear DOM updates
+- **What I Learned:** Iterative feedback loops, maintaining clarity as features grow
+- 🔗 [Live Demo](https://malasharemmy.github.io/Rock-Paper-Scissors/)
+- 🔗 [Repository](#)
+
+---
 
 ### 3. Interactive Grid Drawing System
-- **Problem:** Create a dynamic grid allowing drawing and resizing  
-- **Constraints:** Performance optimization, dynamic DOM handling, reset functionality  
-- **Decisions:** Dynamic grid creation, event delegation for efficient performance  
-- **Outcome:** Gained practical understanding of DOM performance considerations and modular code design  
-- [View Live Demo](https://malasharemmy.github.io/Etch-a-Sketch/)
-- [Repository Link](#)
+- **Problem:** Create a dynamic, resizable drawing grid
+- **Constraints:** Performance, dynamic DOM creation, reset behavior
+- **Design Decisions:** Event delegation for efficiency, modular grid generation
+- **What I Learned:** DOM performance considerations and scalable interaction patterns
+- 🔗 [Live Demo](https://malasharemmy.github.io/Etch-a-Sketch/)
+- 🔗 [Repository](#)
 
-> Each project is intentionally designed to teach and help me demonstrate system thinking, constraint management, applied learning and iterative improvement, rather than just to follow instructions.
-
----
-
-## 🧠 Approach to Learning
-
-1. Analyze the problem deeply before coding  
-2. Plan and structure the system, separating concerns and defining boundaries  
-3. Iterate deliberately, testing, refactoring, and documenting decisions  
-4. Reflect on trade-offs, performance, and maintainability  
-5. Track all progress in Git, showing clear evolution of the system
+> These projects are designed to demonstrate **system thinking, constraint management, and learning progression**, not visual polish.
 
 ---
 
-## 🚀 Trajectory
+## 📈 Current Focus
 
-Currently focusing on:
+- Building more complex JavaScript systems with API integration
+- Learning backend fundamentals through CRUD operations and data modeling
+- Designing and completing small, fully functional full-stack systems
+- Improving debugging, performance reasoning, and documentation discipline
 
-- Building complex JavaScript systems with API integration  
-- Exploring backend fundamentals with CRUD operations and data modeling  
-- Developing system design thinking by planning and building small completely funtional full-stack mini-systems  
-- Strengthening problem-solving, debugging, and performance optimization skills
-
-My goal is to grow into an engineer who can take ownership of systems from conception to deployment.
+My aim is to grow into an engineer who can **take ownership of systems from problem definition to deployment**.
 
 ---
 
 ## 🤝 Collaboration
 
-Open to contributing to:
-
-- Real-world full-stack systems  
-- Learning-focused or open-source projects with clear impact  
-- Projects that require deliberate design, testing, and iteration
+Open to:
+- Learning-focused open-source projects
+- Small, real-world systems with clear constraints
+- Work that values documentation, testing, and iteration
 
 ---
 
-## 🌍 Connect
+## 🌍 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/remmymalasha/](https://www.linkedin.com/in/remmymalasha/)  
-- Email: [mremmy84@gmail.com](mailto:mremmy84@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/remmymalasha/
+- **Email:** mremmy84@gmail.com
 
 ---
 
 ## ⚡ Human Note
 
-I practice *rubber duck debugging*. Surprisingly, the ducks are excellent listeners.
+I practice rubber-duck debugging.  
+The ducks never interrupt — which is rare.

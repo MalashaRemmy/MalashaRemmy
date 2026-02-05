@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=560&lines=Learning+by+Building+and+Explaining;System-Oriented+Problem+Solving;Depth+Before+Scale;Evidence+Over+Claims.)](https://git.io/typing-svg)
 
 I am early in my development and deliberate about staying that way.  
-I focus on building **small, complete systems** I can fully understand, document, and explain.
+I focus on building small, complete systems I can fully understand, document, and explain.
 
-My goal is not speed or surface-level complexity, but **engineering depth**:  
+My goal is not speed or surface-level complexity, but engineering depth:  
 understanding how software behaves under real constraints, how decisions affect maintainability, and how systems evolve through iteration.
 
 ---

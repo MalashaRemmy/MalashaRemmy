@@ -27,7 +27,7 @@ understanding how software behaves under real constraints, how decisions affect 
 - **Version Control:** Git, GitHub (disciplined commits, incremental progress)
 - **Problem Solving:** decomposition, constraint analysis, trade-off evaluation
 
-Skills are demonstrated through **projects structured as systems**, not tutorials.
+Skills are demonstrated through projects structured as systems, not tutorials.
 
 ---
 
@@ -61,18 +61,18 @@ Skills are demonstrated through **projects structured as systems**, not tutorial
 - 🔗 [Live Demo](https://malasharemmy.github.io/Etch-a-Sketch/)
 - 🔗 [Repository](#)
 
-> These projects are designed to demonstrate **system thinking, constraint management, and learning progression**, not visual polish.
+> These projects are designed to demonstrate system thinking, constraint management, and learning progression, not visual polish.
 
 ---
 
 ## 📈 Current Focus
 
-- Building more complex JavaScript systems with API integration
+- Building more complex JavaScript systems with API integration - "**Stashu - Under construction**"
 - Learning backend fundamentals through CRUD operations and data modeling
 - Designing and completing small, fully functional full-stack systems
 - Improving debugging, performance reasoning, and documentation discipline
 
-My aim is to grow into an engineer who can **take ownership of systems from problem definition to deployment**.
+My aim is to grow into an engineer who can take ownership of systems from problem definition to deployment.
 
 ---
 
@@ -95,4 +95,4 @@ Open to:
 ## ⚡ Human Note
 
 I practice rubber-duck debugging.  
-The ducks never interrupt — which is rare.
+The ducks are excellent listeners and they never interrupt - which is rare.

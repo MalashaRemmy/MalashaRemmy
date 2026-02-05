@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=560&lines=Future-Focused+Life+Long+Learner;Building+Systems+and+Thinking+intentionally;Emerging+Software+Engineer;Solving+Problems+with+Evidence.)](https://git.io/typing-svg)
 
-I am an emerging software engineer building web systems end-to-end to understand how software behaves in real conditions.  
+I am early in my development. I deliberately work on small systems I can fully understand, document, and explain. My focus is depth before scale.
+
+I am building web systems end-to-end to understand how software behaves in real conditions.  
 I focus on solving tangible problems, making design decisions under constraints, and iterating with intention.
 
 ---

@@ -1,78 +1,66 @@
-# Software Engineering Student (Early Career)
+# Software Engineering Student
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=560&lines=Learning+by+Building+and+Explaining;System-Oriented+Problem+Solving;Depth+Before+Scale;Evidence+Over+Claims.)](https://git.io/typing-svg)
 
-I am early in my development and deliberate about staying that way.  
-I focus on building small, complete systems I can fully understand, document, and explain.
+I am currently building foundational strength in software engineering, focusing on problem decomposition, system behavior, and clean implementation.
 
-My goal is not speed or surface-level complexity, but engineering depth:  
-understanding how software behaves under real constraints, how decisions affect maintainability, and how systems evolve through iteration.
+I am early in my career, and intentionally focused on mastering fundamentals before pursuing scale or complexity.
 
 ---
 
-## 🧠 Engineering Mindset
+## 🛠️ What I Work With
 
-- I treat projects as systems, not demos  
-- I separate concerns before writing code  
-- I make trade-offs explicit and document decisions  
-- I value clarity, correctness, and predictability over cleverness  
-- I use Git to show *how* my thinking evolves, not just final results  
+### Languages
 
----
+- C++
+- JavaScript
+- TypeScript
 
-## 🛠️ Applied Skills (Current)
+### Web
 
-- **Frontend:** HTML, CSS, JavaScript (DOM manipulation, event-driven logic)
-- **Backend (learning):** Node.js, REST APIs
-- **Version Control:** Git, GitHub (disciplined commits, incremental progress)
-- **Problem Solving:** decomposition, constraint analysis, trade-off evaluation
+- React
+- Node.js
+- HTML
+- CSS
 
-Skills are demonstrated through projects structured as systems, not tutorials.
+### Tools
 
----
-
-## 🔹 Selected Projects
-
-### 1. Calculator System
-- **Problem:** Build a reliable calculator handling all basic arithmetic
-- **Constraints:** Correct edge-case handling, clear separation of logic and display
-- **Design Decisions:** Modular JavaScript functions, event-driven input handling, explicit error states
-- **What I Learned:** State management, predictable behavior in interactive systems
-- 🔗 [Live Demo](https://malasharemmy.github.io/Calculator/)
-- 🔗 [Repository](#)
+- Git & GitHub
+- Linux
+- VS Code
 
 ---
 
-### 2. Browser-Based Game (Rock–Paper–Scissors)
-- **Problem:** Implement a fair game with a randomized computer opponent
-- **Constraints:** Responsive UI, correct game logic, validated user input
-- **Design Decisions:** Event delegation, modular logic, clear DOM updates
-- **What I Learned:** Iterative feedback loops, maintaining clarity as features grow
-- 🔗 [Live Demo](https://malasharemmy.github.io/Rock-Paper-Scissors/)
-- 🔗 [Repository](#)
+## 🤹 Applied Skills
+
+- Currently building: StashU — a student-focused personal finance application (Vanilla JS + Node.js + SQLite, with authentication).
+- Data modeling and REST API design
+- Writing predictable, testable JavaScript and TypeScript
+- Strengthening understanding of memory and runtime behavior (C++ & JS)
+- Refactoring code for clarity and maintainability
 
 ---
 
-### 3. Interactive Grid Drawing System
-- **Problem:** Create a dynamic, resizable drawing grid
-- **Constraints:** Performance, dynamic DOM creation, reset behavior
-- **Design Decisions:** Event delegation for efficiency, modular grid generation
-- **What I Learned:** DOM performance considerations and scalable interaction patterns
-- 🔗 [Live Demo](https://malasharemmy.github.io/Etch-a-Sketch/)
-- 🔗 [Repository](#)
+## 📝 How I Approach Projects
 
-> These projects are designed to demonstrate system thinking, constraint management, and learning progression, not visual polish.
+- Break problems into clearly defined components
+- Separate logic from UI
+- Make trade-offs explicit
+- Commit incrementally to show reasoning
+- Refactor intentionally when structure improves
 
 ---
 
-## 📈 Current Focus
+## 📈 Current Focus and Direction
 
-- Building more complex JavaScript systems with API integration - "**Stashu - Under construction**"
-- Learning backend fundamentals through CRUD operations and data modeling
-- Designing and completing small, fully functional full-stack systems
-- Improving debugging, performance reasoning, and documentation discipline
+Transitioning from interactive front-end projects to full-stack systems involving:
 
-My aim is to grow into an engineer who can take ownership of systems from problem definition to deployment.
+- Persistent data
+- Authentication
+- Deployment
+- Clear architectural boundaries
+
+The goal is long-term: become capable of owning systems end-to-end.
 
 ---
 

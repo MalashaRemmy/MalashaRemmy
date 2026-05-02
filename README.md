@@ -13,8 +13,10 @@ I am early in my career, and intentionally focused on mastering fundamentals bef
 ### Languages
 
 - C++
+- Java (Basics & Fundamentals)
 - JavaScript
 - TypeScript
+- Python (Basics & Fundamentals)
 
 ### Web
 

@@ -35,7 +35,7 @@ I am early in my career, and intentionally focused on mastering fundamentals bef
 
 ## 🤹 Applied Skills
 
-- Currently building: StashU — a student-focused personal finance application (Vanilla JS + Node.js + SQLite, with authentication).
+- Currently building: StashU — a student-focused personal finance application (Vanilla JS + Node.js + Supabase, with authentication).
 - Data modeling and REST API design
 - Writing predictable, testable JavaScript and TypeScript
 - Strengthening understanding of memory and runtime behavior (C++ & JS)
@@ -72,6 +72,7 @@ Open to:
 - Learning-focused open-source projects
 - Small, real-world systems with clear constraints
 - Work that values documentation, testing, and iteration
+- Buiding software for the good of humanity 
 
 ---
 
